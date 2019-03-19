@@ -1,0 +1,74 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="11.10.1" last-modified="1551333627000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="95-114-130-255,,,255-255-255-103,,,255-255-255-202,,,45-68-101-130,,,20-41-101-229,,,255-255-255-176" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6157805" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Unnamed" />
+    <property name="INSPECTION_FILTER_HISTORY" value="index.js" />
+    <property name="INTENTION_FILTER_HISTORY" value="ign&#10;ig" />
+    <property name="InstalledPluginsSearchHistory" value="mater&#10;index.js" />
+    <property name="KEYMAP" value="index&#10;index.js" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PACKAGE_FILTER" value="yarn" />
+    <property name="SettingsSearchHistory" value="todo&#10;font&#10;mater&#10;esl&#10;expo" />
+    <property name="SplitFileEditor.Proportion" value="0.47172618" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="export.settings.path" value="$USER_HOME$/code/horizont/settings/WSSettings" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/code/udemy/todo&#10;/home/saladin/code/horizont/src/components/input-field&#10;/home/saladin/code/udemy/pro-react-redux/star-db/160-basic-routing/src/services/swapi-service.js&#10;/home/saladin/code/udemy/pro-react-redux/star-db/160-basic-routing/src/components/app/app.js&#10;/home/saladin/code/horizont&#10;/home/saladin/code/udemy/pro-react-redux/star-db/160-basic-routing&#10;/home/saladin/code/udemy/star-db&#10;/home/saladin/code/WebStorm settings repository&#10;/home/saladin/code/WebStorm Settings&#10;/home/saladin/code/udemy/pro-react-redux&#10;/home/saladin/code/udemy/star-db/src/components/header&#10;/home/saladin/code/udemy&#10;/home/saladin/code/todo&#10;/home/saladin/code/horizont/components/page&#10;/home/saladin/code/horizont/components/app-page/index.js&#10;/usr/lib/node_modules/npm&#10;/home/saladin/.npm&#10;/home/saladin/code/gatsby-test&#10;/home/saladin/code/test&#10;/home/saladin/code/ru.reactjs.org" />
+    <property name="file.gist.reindex.count" value="51995" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="javascript.return.tag" value="returns" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="MT_DIRECTORIES" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
