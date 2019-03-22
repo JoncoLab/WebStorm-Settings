@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="11.12.0" last-modified="1552670411000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="233-187-0-255,,,255-152-0-255" />
+    <property name="InstalledPluginsSearchHistory" value="Mate" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="project&#10;file colors&#10;file&#10;mater&#10;color" />
+    <property name="TrendingPluginsSearchHistory" value=".ignore&#10;Ma&#10;Mate" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/horizont&#10;/home/alex/Code/react-apps&#10;/home/alex/Code/shipping&#10;/media/alex/Data/settingsJetBrains/WSSettings.zip" />
+    <property name="file.gist.reindex.count" value="967" />
+    <property name="fileTypeChangedCounter" value="15" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="MT_DIRECTORIES" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
