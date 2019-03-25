@@ -6,9 +6,21 @@
       <file name="/Dummy.txt" timestamp="1553547098152">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/horizont/src/index.js" timestamp="1553547652759">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>d</text>
+      </register>
+      <register name="-" type="4">
+        <text>d</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
